@@ -1,5 +1,5 @@
 # Fuel Calculator
-This project is a app Android Native with kotlin language. The main objective of this app  is to calculate  the IMC and show the result throw a classification on screen.
+This project is a app Android Native with kotlin language. The main objective of this app  is to calculate  the Fuel expenses for a trip and show the result throw a result on screen.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
